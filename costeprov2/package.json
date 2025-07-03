@@ -1,0 +1,11 @@
+{
+  "name": "costepro-functions",
+  "version": "1.0.0",
+  "description": "Dependencies for Netlify functions",
+  "dependencies": {
+    "nodemailer": "^6.9.8"
+  },
+  "scripts": {
+    "build": "echo 'Build script for functions'"
+  }
+}
